@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Exaael
+- 👀 I’m interested in AI development.
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He is okay
+- ⚡ Fun fact: I suck at maths, though I know I don't need them much
